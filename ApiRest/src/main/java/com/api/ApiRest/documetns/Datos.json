@@ -1,0 +1,49 @@
+// Agregar en POSTMAN  por cada jave hacer lo siguiente con el metodo PUT  en body-> raw -> JSON
+[
+  {
+    "id": 1,
+    "emailId": "user6@mail.com",
+    "firstName": "user1",
+    "celPhone": "521526"
+  },
+  {
+    "id": 2,
+    "emailId": "user2@mail.com",
+    "firstName": "user2",
+    "celPhone": "1234567890"
+  },
+  {
+    "id": 3,
+    "emailId": "user3@mail.com",
+    "firstName": "user3",
+    "celPhone": "0123456789"
+  },
+  {
+    "id": 4,
+    "emailId": "user4@mail.com",
+    "firstName": "user4",
+    "celPhone": "9012345678"
+  },
+  {
+    "id": 5,
+    "emailId": "user54@mail.com",
+    "firstName": "user54",
+    "celPhone": "9901234567"
+  }
+]
+
+// ---modificar  datos  son con el metodo PATCH en POSTMAN
+{
+  "id": 1,
+  "emailId": "user6@mail.com",
+  "firstName": "user6",
+  "celPhone": "5215267"
+}
+//-------------------
+{
+  "id": 2,
+  "emailId": "user255@mail.com",
+  "firstName": "user2",
+  "celPhone": "1234567890"
+}
+//-------------------------

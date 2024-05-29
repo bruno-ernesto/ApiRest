@@ -1,0 +1,5 @@
+com\api\ApiRest\controller\ControladorPersona.class
+com\api\ApiRest\repository\PersonaRepository.class
+com\api\ApiRest\ApiRestApplication.class
+com\api\ApiRest\exception\ResourceNotFoundException.class
+com\api\ApiRest\model\Persona.class

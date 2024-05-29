@@ -1,0 +1,12 @@
+Autor: Bruno Ernesto Zamorano Cansino
+En este archivo es para mencionar que este proyecto se creo con Sping Boot
+utilizando el Framework de Intelij IDEA, se agrego una libreria  externea
+ya que en el programa no la identifica que y esta es la de peristence.jar
+se utilizo la version 17 de java y la version del spring es la 3.3.0
+también dentro de una carpeta llamada documents que se encontrara dentro del
+programa se agregaran lo necesario pra la Base de datos de MYSQL como los datos
+del JSON para agregar con el programa de POSTMAN.
+
+También agregue en la carpeta el archivo el javax.persistence.jar
+y es necesario agregarlo desde la estructura del proyecto
+en el apartado de Module con el scope de Test en Itelij.
